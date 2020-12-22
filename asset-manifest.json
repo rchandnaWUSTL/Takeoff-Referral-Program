@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rchandnaWUSTL/Takeoff-Referral-Programstatic/css/main.1fe10c19.chunk.css",
+    "main.js": "/rchandnaWUSTL/Takeoff-Referral-Programstatic/js/main.aeb74570.chunk.js",
+    "main.js.map": "/rchandnaWUSTL/Takeoff-Referral-Programstatic/js/main.aeb74570.chunk.js.map",
+    "runtime-main.js": "/rchandnaWUSTL/Takeoff-Referral-Programstatic/js/runtime-main.05c98bcb.js",
+    "runtime-main.js.map": "/rchandnaWUSTL/Takeoff-Referral-Programstatic/js/runtime-main.05c98bcb.js.map",
+    "static/js/2.0cbff2a9.chunk.js": "/rchandnaWUSTL/Takeoff-Referral-Programstatic/js/2.0cbff2a9.chunk.js",
+    "static/js/2.0cbff2a9.chunk.js.map": "/rchandnaWUSTL/Takeoff-Referral-Programstatic/js/2.0cbff2a9.chunk.js.map",
+    "index.html": "/rchandnaWUSTL/Takeoff-Referral-Programindex.html",
+    "static/css/main.1fe10c19.chunk.css.map": "/rchandnaWUSTL/Takeoff-Referral-Programstatic/css/main.1fe10c19.chunk.css.map",
+    "static/js/2.0cbff2a9.chunk.js.LICENSE.txt": "/rchandnaWUSTL/Takeoff-Referral-Programstatic/js/2.0cbff2a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05c98bcb.js",
+    "static/js/2.0cbff2a9.chunk.js",
+    "static/css/main.1fe10c19.chunk.css",
+    "static/js/main.aeb74570.chunk.js"
+  ]
+}
