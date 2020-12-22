@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(121, 212, 242);
+}
+
+.landing a {
+    font-size: large;
+}
+
+.login .column .errorMsg {
+  color: red;
+  font-size: 16px;
+}
+
+.login .column input {
+  border: 1px solid black;
+  outline: 1px solid black;
+  padding: 5px;
+  margin: 10px;
+  background: rgba(255, 255, 255, 0.1);
+  background-color: rgb(32, 107, 131);
+  color: #fff;
+  letter-spacing: 1px;
+}
+
+.refCode {
+  background-color: blue;
+  color: white;
+}
+
+.prizes {
+  font-size: larger;
+  justify-content: center;
+  text-align: center;
+}
+
+.prizes ul {
+  text-align: center;
+  list-style: inside;
+  list-style-type: none;
+  color: green;
+}

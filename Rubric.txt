@@ -1,0 +1,23 @@
+Anisha Garodia (464888) and Roshan Chandna (463874)
+Module 7 Rubric
+
+React (10 points)
+
+Firebase (5 points)
+
+Functionality (55 points):
+  10 Users can register, login, and logout
+  5 Passwords are hashed, salted, and stored
+  10 Logged in users can see how many referrals they have and prizes associated
+  15 Logged in users can refer other people by generating a unique code
+  10 Correctly checks if referred user actually signs up with a new email
+  5 Adds points to referrers account when user signs up
+
+Best Practices (5 points):
+  3 Code is readable and well formatted
+  2 All pages pass the html validator
+
+Creative (20 Points)
+
+
+Checked By: Clay Mudter
